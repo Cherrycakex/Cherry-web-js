@@ -19,7 +19,7 @@ export default function HomePage() {
             <Link href="/" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
               Home
             </Link>
-            <a href="https://ko-fi.com/cherrycakex" target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+            <a href="https://ko-fi.com/yingtaom" target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
               Commissions
             </a>
             <Button asChild size="sm" className="rounded-full bg-primary hover:bg-primary/90 text-primary-foreground">
@@ -49,7 +49,7 @@ export default function HomePage() {
               <h2 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary via-foreground to-accent bg-clip-text text-transparent">
                 Cherry
               </h2>
-              <p className="text-muted-foreground text-base md:text-lg mt-2">@cherrycakex</p>
+              <p className="text-muted-foreground text-base md:text-lg mt-2">@Yingtao</p>
             </div>
           </div>
 
@@ -59,7 +59,7 @@ export default function HomePage() {
 
           <div className="flex items-center justify-center gap-4 mb-10">
             <a
-              href="https://instagram.com/cherrycake_x"
+              href="https://instagram.com/yingtaom_"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full bg-gradient-to-br from-card to-muted border border-border hover:border-primary/50 flex items-center justify-center transition-all hover:scale-110"
@@ -67,7 +67,7 @@ export default function HomePage() {
               <Instagram className="w-5 h-5 text-muted-foreground hover:text-primary transition-colors" />
             </a>
             <a
-              href="https://twitter.com/cherrycake_x"
+              href="https://twitter.com/yingtaoo_"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full bg-gradient-to-br from-card to-muted border border-border hover:border-primary/50 flex items-center justify-center transition-all hover:scale-110"
@@ -75,7 +75,7 @@ export default function HomePage() {
               <Twitter className="w-5 h-5 text-muted-foreground hover:text-primary transition-colors" />
             </a>
             <a
-              href="https://youtube.com/@cherrycakex"
+              href="https://youtube.com/@yingtaom"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full bg-gradient-to-br from-card to-muted border border-border hover:border-accent/50 flex items-center justify-center transition-all hover:scale-110"
